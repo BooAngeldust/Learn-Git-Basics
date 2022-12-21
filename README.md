@@ -1,4 +1,4 @@
-# Hello Git
+# Hello Git (debug)
 
 ## Creating a git repository
 1. git init -> intialize a new repository
