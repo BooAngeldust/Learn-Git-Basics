@@ -10,5 +10,5 @@
 7. git push -u main -> push items to branch main
 
 ## Branches
-git branch branch-name -> creates a branch with certain name
-git checkout branch-name -> switch to that branch
+* git branch branch-name -> creates a branch with certain name
+* git checkout branch-name -> switch to that branch
