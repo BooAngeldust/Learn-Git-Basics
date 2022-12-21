@@ -4,7 +4,7 @@ def numberGame():
     number : int = random.randint(1,101)
 
     print("Guess the number in 1-100 range")
-    print(f"DEBUG: {number}")
+    print(f"DEBUG: Number is {number}")
         
     while True:
         numberGuess : int = int(input(">>> "))
@@ -21,6 +21,8 @@ name : str = input("Enter your name: ")
 while True:
     choice : str = input(f"Hello {name} would you like to play guess the number game? (y/n): ")
 
+    print(f"DEBUG: Input was {choice}")
+    
     if choice.lower() == "y":
         numberGame()
         break
