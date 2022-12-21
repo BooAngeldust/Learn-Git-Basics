@@ -15,5 +15,4 @@
 
 ### Merge branches
 1. git checkout branch-name -> navigate to the branch you want to merge
-2. git merge other-branch-name -> merge with another branch
-  fix conflicts
+2. git merge other-branch-name -> merge with another branch (make sure to fix conflicts)
