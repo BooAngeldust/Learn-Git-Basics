@@ -4,6 +4,7 @@ def numberGame():
     number : int = random.randint(1,101)
 
     print("Guess the number in 1-100 range")
+
     while True:
         numberGuess : int = int(input(">>> "))
         if numberGuess > number:
