@@ -1,6 +1,6 @@
 # Hello Git
 
-## Creating git repository
+## Creating a git repository
 1. git init -> intialize a new repository
 2. touch README.md -> create a "README.md" file
 3. git branch -M main -> change branch name to main
